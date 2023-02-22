@@ -1,0 +1,5 @@
+module(
+  name = "cpp_jsonnet",
+  version = "0.0.0-v0.19.1",
+  compatibility_level = 1,
+)
